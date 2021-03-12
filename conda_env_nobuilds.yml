@@ -63,4 +63,3 @@ dependencies:
   - xz=5.2.5
   - zeromq=4.3.3
   - zlib=1.2.11
-prefix: /binaries/anaconda3/envs/env_numba_issue
